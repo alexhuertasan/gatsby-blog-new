@@ -17,7 +17,7 @@ export default function Template(props) {
   return (
     <Layout {...props}>
       <div className="blog-post-container">
-        <Helmet title={`Gatsby Blog - ${post.frontmatter.title}`} />
+        <Helmet title={`El blog de Alex - ${post.frontmatter.title}`} />
         <article className="blog-post">
           <h1 className="title">
             {post.frontmatter.title}

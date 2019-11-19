@@ -1,18 +1,28 @@
 ---
-path: "/sample-post"
-date: "2017-07-18T13:35:13.234Z"
-title: "Sample Post"
-tags: ["latin", "sample"]
+path: "/11-reglas-de-bill-gates"
+date: "2019-11-17T13:35:13.234Z"
+title: "Las 11 reglas de Bill Gates"
+tags: ["reglas", "bill gates"]
 ---
 
-I speak Latin because I am a fancy man.
+1- "La vida no es justa, acostúmbrate a ello".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id orci viverra, lacinia mauris vitae, lacinia tortor. Mauris pretium pellentesque consequat. Pellentesque venenatis, mi sit amet fringilla vehicula, lacus ante suscipit urna, vitae ornare tellus ex at nunc. Aenean fringilla eros quis nisi aliquet tempus. Fusce euismod orci lectus, luctus ultricies lacus pulvinar et. Etiam ut nibh eu libero lacinia varius ut ac dui. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec faucibus, augue at varius ultricies, nisi magna semper odio, sit amet fringilla massa mauris a ipsum. Nulla urna felis, pellentesque sed tincidunt et, luctus et ligula. Ut quis sollicitudin tellus. Sed at vehicula enim, a rutrum nunc. In hac habitasse platea dictumst. Pellentesque lacus ligula, vulputate ac tempor a, auctor at odio.
+2- "Al mundo no le importa tu autoestima, el mundo esperará que logres algo, antes de que te sientas bien contigo mismo".
 
-Fusce ac est porttitor, fringilla turpis a, euismod erat. Aenean egestas nulla nec nisi condimentum, eget feugiat massa varius. Quisque sollicitudin augue sed nulla dapibus aliquam. In quis lectus tincidunt, dapibus est sit amet, laoreet quam. Vivamus eget enim tincidunt turpis gravida suscipit. Duis ac neque nec metus laoreet vehicula dignissim ut lorem. In eget dolor nulla. Donec augue elit, lobortis at elit sit amet, euismod tristique ex. Vivamus eleifend tempus enim eget mollis.
+3- "No ganarás 5.000 dólares al mes nada más salir de la universidad. No serás el vicepresidente de una empresa con coche y teléfono a tu disposición, hasta que con tu esfuerzo hayas conseguido comprar tu propio coche y teléfono".
 
-Phasellus sem nunc, iaculis ut dui in, ultricies egestas enim. Nulla venenatis nisi at nisl commodo, sit amet dictum lacus egestas. Nulla ullamcorper vel arcu eget tempus. Proin vitae metus eget ligula lobortis posuere. Sed non viverra erat, quis dapibus velit. Praesent rhoncus ante vel fringilla rhoncus. Morbi id odio pharetra, condimentum velit sed, laoreet diam. Vivamus placerat tempus commodo. Phasellus vel nisl fringilla augue semper dictum et et ante. Nulla luctus, nulla ut lobortis rhoncus, arcu lectus lacinia nibh, faucibus ultrices elit arcu nec odio. Integer volutpat congue congue. Nam eleifend urna in diam cursus pharetra. Sed fermentum quis sem cursus tempus. Fusce at finibus tortor, eu pulvinar erat.
+4- "Si piensas que tu maestro es duro, espera hasta que tengas un jefe. El no tendrá paciencia".
 
-Praesent sed eleifend augue. Morbi eu diam egestas, mattis urna eu, pulvinar arcu. Quisque fermentum odio in magna congue aliquam. Quisque rhoncus nunc id tempus elementum. Cras sed convallis eros, ac euismod magna. Ut tristique nulla neque, quis consequat libero volutpat id. Donec libero dolor, ornare eget ornare sit amet, sollicitudin nec ante. Praesent et finibus dui. Nam vehicula neque facilisis urna ornare dapibus.
+5- "Dedicarse a cocinar hamburguesas no te quita dignidad. Tus abuelos tienen una palabra distinta para definirlo: ellos lo llaman oportunidad".
 
-Fusce consequat nisi id nibh lobortis dictum. In cursus auctor diam, ac venenatis orci consequat semper. Quisque semper aliquet molestie. Ut bibendum convallis nunc, in dictum dolor consequat nec. Sed sit amet dui in purus placerat suscipit eu nec ipsum. Phasellus rhoncus nulla ut tortor sodales, vitae pellentesque odio venenatis. Sed facilisis nec odio aliquet sollicitudin. Donec ante mi, eleifend vitae ante id, fermentum porta ante. In fermentum massa nunc, nec malesuada lectus accumsan vitae. Integer lobortis magna at tortor mattis, a finibus erat facilisis.
+6- "Si te equivocas no le eches la culpa a la mala suerte o a tus padres. No llores por tus errores, aprende de ellos".
+
+7- "Antes de que nacieras, tus padres no eran tan aburridos como lo son ahora, ellos empezaron a serlo para pagar tus cuentas, limpiar tu ropa, y escucharte hablar de lo 'enrollado' que eres. Así que antes de que salves las selvas de la contaminación, porque no empiezas por limpiar primero tu vida, como por ejemplo, tu propia habitación".
+Bill Gates
+8- "Los colegios pueden haber eliminado la distinción entre excelentes, buenos y regulares, pero la vida real no es así. En muchos colegios hoy no repites curso, hacen que tus tareas sean cada vez más fáciles y tienes las oportunidades que necesites hasta aprobar. Esto no se parece nada a la vida real. Si fallas estás despedido. Así que acierta a la primera".
+
+9- "La vida no se divide en semestres. No tendrás vacaciones de verano largas en lugares lejanos, y muy pocos jefes se interesan en ayudarte a que te encuentres a ti mismo. Tendrás que hacerlo en tu tiempo libre".
+
+10- "La televisión no es la vida real. En la vida real las personas tienen que dejar los juegos, el bar, los bailes o los amigos para irse a trabajar".
+
+11- "Se amable con los nerds, existen muchas posibilidades de que termines trabajando para uno de ellos".

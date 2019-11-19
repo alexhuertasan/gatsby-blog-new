@@ -29,7 +29,7 @@ export default function Index(props) {
                 <p>
                   {post.excerpt}
                 </p>
-                <Link to={post.frontmatter.path}>Read more</Link>
+                <Link to={post.frontmatter.path}>Leer más</Link>
               </div>
             );
           })}

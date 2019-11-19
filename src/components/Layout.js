@@ -18,13 +18,13 @@ export default class Template extends React.Component {
     return (
       <React.Fragment>
         <Helmet
-          title="Gatsby Default (Blog) Starter"
+          title="El blog de Alex"
           meta={[
             { name: 'description', content: 'Sample' },
             { name: 'keywords', content: 'sample, something' },
           ]}
         >
-          <html lang="en" />
+          <html lang="es" />
         </Helmet>
         <div
           style={{
@@ -47,7 +47,7 @@ export default class Template extends React.Component {
                   textDecoration: 'none',
                 }}
               >
-                Gatsby Blog
+                El blog de Alex
               </Link>
             </h1>
           </div>

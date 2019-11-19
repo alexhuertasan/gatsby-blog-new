@@ -1,21 +1,26 @@
 ---
 path: "/hello-world.html"
-date: "2017-07-14T03:49:16.408Z"
-title: "Hello World"
-tags: ["first"]
+date: "2019-11-19T03:49:16.408Z"
+title: "Los consejos de Steve Jobs"
+tags: ["steve jobs"]
 ---
 
 ![hipster guy](./images/hipster.jpeg)
 
-Esta es una prueba de escritura.
+1. Trabajo duro. El pilar central de su filosofía. No llegarás a nada sin tu propio esfuerzo, nadie te va a regalar nada.
 
-Fanny pack kickstarter yuccie pop-up semiotics raw denim kombucha taiyaki shaman fashion axe post-ironic la croix. Health goth hot chicken subway tile cray. Raw denim echo park pug photo booth. Kogi marfa franzen kitsch adaptogen pork belly. Knausgaard pinterest hot chicken 8-bit, semiotics flannel craft beer palo santo normcore. Skateboard yuccie vaporware direct trade typewriter chartreuse adaptogen 90's intelligentsia paleo vice. Deep v irony stumptown ennui vexillologist. Fashion axe austin squid brunch knausgaard brooklyn. Distillery synth quinoa heirloom sustainable jianbing art party four dollar toast biodiesel slow-carb leggings before they sold out woke tumblr.
+2. Contagia con tu pasión. Tu esfuerzo necesita apoyarse en el de otros. Habla con el corazón y conseguirás a los aliados adecuados.
 
-Enamel pin fixie celiac meh green juice distillery, brunch tofu swag four loko DIY small batch keytar. Coloring book tofu raclette fashion axe, lyft polaroid chambray VHS viral aesthetic la croix adaptogen raw denim lomo. 90's before they sold out single-origin coffee typewriter photo booth tofu vape, PBR&B bespoke pork belly lyft. Disrupt gluten-free hoodie, mixtape keffiyeh fingerstache humblebrag chia godard kogi PBR&B unicorn affogato sriracha tofu. Taiyaki yr beard 90's, quinoa biodiesel tofu. Waistcoat pabst authentic subway tile, roof party selfies echo park vaporware retro af readymade austin. Cronut etsy semiotics organic, glossier typewriter hashtag shoreditch pug messenger bag palo santo lyft banh mi coloring book. Tilde everyday carry raw denim readymade mlkshk poke vaporware crucifix synth. Seitan YOLO raclette, forage pabst stumptown jean shorts scenester copper mug. Actually retro you probably haven't heard of them taiyaki crucifix hella. Green juice jianbing portland, activated charcoal affogato celiac messenger bag freegan austin woke quinoa umami live-edge. Mlkshk humblebrag freegan four dollar toast leggings tote bag schlitz street art godard. Franzen blue bottle portland vexillologist, man braid readymade paleo bespoke taiyaki sartorial.
+3. Tus armas son la adulación y la seducción. En ocasiones tendrás que dorarle la píldora a algún posible aliado para conseguir tus propósitos.
 
-Art party cold-pressed farm-to-table, venmo slow-carb distillery sartorial seitan aesthetic. Hell of tattooed cloud bread mustache pinterest. Readymade 90's shaman mixtape pop-up pinterest DIY whatever. Ramps ethical banjo quinoa beard 8-bit paleo cold-pressed deep v. Lyft asymmetrical migas echo park disrupt artisan. Post-ironic air plant vinyl scenester pop-up quinoa. Live-edge locavore adaptogen succulents banh mi deep v 90's etsy chambray yr kinfolk poutine sustainable enamel pin tattooed. Forage kickstarter gentrify, selvage hell of art party brunch. Hexagon crucifix poke organic +1 woke williamsburg vegan mustache. Flannel post-ironic blog kitsch 8-bit intelligentsia pour-over. Cloud bread authentic kale chips hammock. Occupy street art kinfolk typewriter 3 wolf moon everyday carry. Pork belly hot chicken sriracha DIY.
+4. Defiende tus ideas hasta que tengas que dejar de hacerlo. En ocasiones es aceptable recular si sientes que te has equivocado en el pasado.
 
-Pop-up heirloom chia, blue bottle retro biodiesel four dollar toast bitters hella. Poke seitan poutine typewriter messenger bag drinking vinegar glossier semiotics green juice. Small batch blog health goth aesthetic. Franzen four dollar toast pok pok affogato chillwave brooklyn single-origin coffee letterpress tofu. Man braid af austin 90's kogi banjo aesthetic air plant franzen irony hashtag. Kombucha yuccie hammock art party migas. Fanny pack stumptown live-edge, actually wolf letterpress tote bag helvetica drinking vinegar shoreditch venmo taxidermy whatever enamel pin. Pabst retro actually tbh church-key locavore man bun, vinyl forage. Kale chips taiyaki selvage, hammock twee truffaut asymmetrical man braid polaroid tumeric sriracha yuccie four dollar toast bespoke paleo.
-Oh. You need a little dummy text for your mockup? How quaint.
+5. Decisiones rápidas y firmes. Aunque cambies de idea más tarde, a la hora de expresar tu postura muestra contundencia.
 
-I bet you’re still using Bootstrap too…
+6. Con tus aliados, honestidad brutal. Aquellos que te acompañan en tu aventura merecen ver la foto completa. No son tus rivales.
+
+7. No dejes tus problemas para mañana. Un problema puede ser como una bola de nieve, crecerá con el tiempo. Por ello lo más recomendable es atajarlos lo más rápido posible.
+
+8. Ignora a la gente tóxica. Aquellos que nos impiden progresar no merecen ni una réplica. No entres en su juego, para ti no existen.
+
+9. Persevera. Incluso cuando las cosas vayan bien, sigue luchando. Dormirse en los laureles en el camino más rápido para caer de la cima.

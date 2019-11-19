@@ -5,6 +5,8 @@ title: "Las 11 reglas de Bill Gates"
 tags: ["reglas", "bill gates"]
 ---
 
+![billgates](./images/bill-gates.jpg)
+
 1- "La vida no es justa, acostúmbrate a ello".
 
 2- "Al mundo no le importa tu autoestima, el mundo esperará que logres algo, antes de que te sientas bien contigo mismo".

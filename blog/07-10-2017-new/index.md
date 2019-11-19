@@ -5,6 +5,8 @@ title: "Consejos de Henry Ford"
 tags: ["henry ford", "consejos"]
 ---
 
+![henryford](./images/henry-ford.jpg)
+
 1. «El fracaso es una gran oportunidad para empezar otra vez con más inteligencia».
 
 2. «El fracaso es, a veces, más fructífero que el éxito».

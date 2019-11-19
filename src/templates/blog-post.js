@@ -1,7 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import BackIcon from 'react-icons/lib/fa/chevron-left';
-import ForwardIcon from 'react-icons/lib/fa/chevron-right';
+import BackIcon from 'react-icons/lib/fa/arrow-circle-left';
+import ForwardIcon from 'react-icons/lib/fa/arrow-circle-right';
 import { graphql } from 'gatsby'
 
 import Link from '../components/Link';

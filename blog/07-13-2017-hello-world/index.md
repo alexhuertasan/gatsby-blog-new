@@ -1,5 +1,5 @@
 ---
-path: "/hello-world.html"
+path: "/steve-jobs.html"
 date: "2019-11-19T03:49:16.408Z"
 title: "Los consejos de Steve Jobs"
 tags: ["steve jobs"]

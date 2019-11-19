@@ -3,18 +3,18 @@ const { name } = require('./package.json');
 module.exports = {
   pathPrefix: process.env.CI ? `/${name}` : `/`,
   siteMetadata: {
-    author: 'You!',
-    title: `Gatsby Default (Blog) Starter`,
+    author: 'Alex Huerta',
+    title: `El blog de Alex`,
   },
   plugins: [
     'gatsby-plugin-catch-links',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Blog Starter',
+        name: 'El Blog de Alex',
         short_name: 'Blog',
         start_url: '/',
-        background_color: '#fff',
+        background_color: '#ff0',
         theme_color: '#663399',
         display: 'minimal-ui',
         icon: 'assets/logo.jpg',

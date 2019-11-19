@@ -5,7 +5,7 @@ title: "Los consejos de Steve Jobs"
 tags: ["steve jobs"]
 ---
 
-![hipster guy](./images/hipster.jpeg)
+![stevejobs](./images/steve-jobs.jpg)
 
 1. Trabajo duro. El pilar central de su filosofía. No llegarás a nada sin tu propio esfuerzo, nadie te va a regalar nada.
 
